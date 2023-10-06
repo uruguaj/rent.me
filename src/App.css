@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+.font-rubik{
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 0.07rem;
+}
+.font-dela{
+    font-family: 'Dela Gothic One', cursive;
+    letter-spacing: .05rem;
+}
+.icon{
+    stroke: whitesmoke;
+}
