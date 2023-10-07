@@ -6,11 +6,11 @@ export default {
   },
   plugins: [],
   extend: {
-    zIndex:{
-      '999' : '100',
+    zIndex: {
+      999: "100",
     },
     height: {
-      '128': '3rem',
-    }
-  }
+      128: "3rem",
+    },
+  },
 };
